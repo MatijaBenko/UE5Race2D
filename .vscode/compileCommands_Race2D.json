@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\Source\\Race2D\\MyGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\.vscode\\compileCommands_Race2D\\Race2D.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\Source\\Race2D\\MyGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\.vscode\\compileCommands_Race2D\\Race2D.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\Source\\Race2D\\Obstacles.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\.vscode\\compileCommands_Race2D\\Race2D.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\Source\\Race2D\\Obstacles.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\.vscode\\compileCommands_Race2D\\Race2D.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\Source\\Race2D\\PlayerChar.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\.vscode\\compileCommands_Race2D\\Race2D.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\Source\\Race2D\\PlayerChar.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\.vscode\\compileCommands_Race2D\\Race2D.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\Source\\Race2D\\Race2D.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\.vscode\\compileCommands_Race2D\\Race2D.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\Source\\Race2D\\Race2D.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\.vscode\\compileCommands_Race2D\\Race2D.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\Source\\Race2D\\Race2D.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\MatijaBenko\\Documents\\Unreal Projects\\Race2D\\.vscode\\compileCommands_Race2D\\Race2D.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
